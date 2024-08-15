@@ -58,13 +58,13 @@ When asked about "Ownership" in an Amazon interview, the interviewer wants to se
    - Example: "In one of my projects, we were tasked with developing a machine learning model to predict customer churn for a subscription service. The project had tight deadlines, and the success of the model was critical to the company’s strategy."
 
 **2. Task**: Explain your responsibility in that situation.
-   - Example: "As the lead machine learning applied scientist, I was responsible not just for building the model, but also for ensuring that the model was deployed effectively and that it provided actionable insights to the business."
+   - "As the lead machine learning applied scientist, I was responsible not just for building the model, but also for ensuring that the model was deployed effectively and that it provided actionable insights to the business."
 
 **3. Action**: Describe the actions you took to show ownership.
-   - Example: "During the project, I noticed that the data we received had significant gaps, which could undermine the model's accuracy. Instead of simply flagging this as an issue and waiting for the data team to address it, I took the initiative to work closely with the data engineering team to fill in the gaps, while simultaneously developing a backup plan to use alternative data sources. I also ensured that I communicated regularly with stakeholders, providing updates and managing expectations."
+   - "During the project, I noticed that the data we received had significant gaps, which could undermine the model's accuracy. Instead of simply flagging this as an issue and waiting for the data team to address it, I took the initiative to work closely with the data engineering team to fill in the gaps, while simultaneously developing a backup plan to use alternative data sources. I also ensured that I communicated regularly with stakeholders, providing updates and managing expectations."
 
 **4. Result**: Share the outcomes of your actions.
-   - Example: "As a result, the project was completed on time, and the model we developed accurately predicted customer churn with a 95% precision rate. The model’s insights were directly integrated into the company’s marketing strategy, leading to a 20% reduction in churn within the first quarter after deployment."
+   - "As a result, the project was completed on time, and the model we developed accurately predicted customer churn with a 95% precision rate. The model’s insights were directly integrated into the company’s marketing strategy, leading to a 20% reduction in churn within the first quarter after deployment."
 
 ### Tips for Answering
 
