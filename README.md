@@ -13,16 +13,16 @@ When you're asked behavioral questions related to the "Bias for Action" principl
 Here’s how to structure your answer using the **STAR method** (Situation, Task, Action, Result):
 
 #### 1. **Situation**: Describe the context within which you had to take action quickly.
-   - Example: "In a previous project, we were developing a machine learning model for a client who needed quick results to meet a tight deadline. However, we encountered an unexpected data issue that threatened to delay the project."
+   - "In a previous project, we were developing a machine learning model for a client who needed quick results to meet a tight deadline. However, we encountered an unexpected data issue that threatened to delay the project."
 
 #### 2. **Task**: Explain your responsibility in that situation.
-   - Example: "As the lead data scientist, it was my responsibility to ensure that we delivered the model on time while maintaining a high standard of accuracy."
+   - "As the lead machine learning scientist, it was my responsibility to ensure that we delivered the model on time while maintaining a high standard of accuracy."
 
 #### 3. **Action**: Detail the specific actions you took to address the challenge.
-   - Example: "Recognizing the urgency, I quickly assembled the team, and we brainstormed alternative approaches. I decided to implement a quick fix to clean the data, knowing it might not be perfect but would allow us to continue developing the model while we refined the solution in parallel."
+   - "Recognizing the urgency, I quickly assembled the team, and we brainstormed alternative approaches. I decided to implement a quick fix to clean the data, knowing it might not be perfect but would allow us to continue developing the model while we refined the solution in parallel."
 
 #### 4. **Result**: Share the outcome of your actions.
-   - Example: "As a result, we were able to deliver the model on time, and the client was pleased with the results. Additionally, our quick action allowed us to identify a new best practice for handling similar data issues in the future."
+   - "As a result, we were able to deliver the model on time, and the client was pleased with the results. Additionally, our quick action allowed us to identify a new best practice for handling similar data issues in the future."
 
 ### Tips for Answering
 
