@@ -136,6 +136,10 @@ When you're asked behavioral questions related to "Customer Obsession" in an Ama
 
 *I then developed a multi-model approach where each segment was treated differently, with tailored interventions aimed at addressing the specific reasons for potential churn in each group. The personalized approach led to a 20% reduction in churn rate within three months of deployment, and customer satisfaction scores improved significantly. This experience reinforced the importance of truly understanding and addressing the unique needs of our customers, even if it means going beyond the initial project scope."*
 
+Emphasize the selective model:
+Deployed three iterative versions of NOMI Forecast models to RBC (the biggest bank in Canada) which used by millions of users daily as the leading researcher. Our NOMI model wins Best Use of AI for Customer Experience at The Digital Banker Digital CX Awards 2023.
+
+
 ### Conclusion
 
 When answering questions about "Customer Obsession" at Amazon, focus on showing how you put customers at the center of your decisions and actions. Provide concrete examples where your customer-focused approach led to tangible benefits for the customer and the company. Demonstrating your commitment to understanding and solving customer problems will resonate strongly in an Amazon interview.
