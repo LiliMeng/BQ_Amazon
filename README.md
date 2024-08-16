@@ -143,3 +143,51 @@ Deployed three iterative versions of NOMI Forecast models to RBC (the biggest ba
 ### Conclusion
 
 When answering questions about "Customer Obsession" at Amazon, focus on showing how you put customers at the center of your decisions and actions. Provide concrete examples where your customer-focused approach led to tangible benefits for the customer and the company. Demonstrating your commitment to understanding and solving customer problems will resonate strongly in an Amazon interview.
+
+### Amazon Leadership Principle: Have Backbone; Disagree and Commit
+
+**"Have Backbone; Disagree and Commit"** is one of Amazon's key leadership principles, which emphasizes the importance of speaking up, respectfully challenging decisions when you disagree, and fully committing to the final decision once it’s made—even if it wasn’t your preferred outcome.
+
+At Amazon, leaders are expected to respectfully challenge decisions, even when doing so is uncomfortable or exhausting. However, once a decision is determined, they are expected to fully commit to it, ensuring the success of the collective goal. This principle fosters a culture of open debate, rigorous discussion, and ultimately, unified execution.
+
+### How to Answer "Have Backbone; Disagree and Commit" Behavioral Questions in an Amazon Interview
+
+When asked behavioral questions related to this principle, interviewers are looking for examples where you:
+- Assertively and respectfully voiced a differing opinion.
+- Engaged in constructive debate to ensure the best decision was made.
+- Fully supported and committed to a decision once it was finalized, even if it wasn’t your initial preference.
+
+#### Using the STAR Method (Situation, Task, Action, Result):
+
+**1. Situation**: Describe a situation where there was a disagreement or a decision you were not in favor of.
+   - "In a project aimed at optimizing a machine learning model for predictive analytics, my team proposed using a complex ensemble method. However, I believed a simpler model with robust feature engineering would yield better results given the time constraints and the need for interpretability."
+
+**2. Task**: Explain your responsibility and what you needed to accomplish.
+   -  "As the lead data scientist, my responsibility was to ensure that we chose the most effective approach while meeting the project deadlines and delivering a model that the business could easily understand and implement."
+
+**3. Action**: Describe the actions you took to express your disagreement and how you handled the situation after a decision was made.
+   - "I gathered data to support my perspective and presented my concerns to the team, emphasizing the risks of overfitting and the potential difficulties in explaining the complex model to stakeholders. I advocated for a simpler model with rigorous feature selection. Despite my arguments, the team decided to proceed with the ensemble method due to its high performance in initial tests. After the decision was made, I fully committed to making the ensemble model successful. I worked extra hours to ensure the model was properly tuned and documented, and I also prepared clear explanations to help stakeholders understand the model's predictions."
+
+**4. Result**: Share the outcome of your actions and how the project turned out.
+   -"The ensemble model did indeed perform well in production, achieving the desired performance metrics. My proactive documentation and explanation efforts led to stakeholders gaining confidence in the model, and they appreciated the detailed insights. The project was a success, and the team recognized the value of having had an open debate before reaching the final decision."
+
+### Tips for Answering
+
+1. **Show Respectful Disagreement**: Highlight how you voiced your concerns or disagreement in a respectful and constructive manner, supporting your position with data or logical reasoning.
+
+2. **Demonstrate Commitment**: Emphasize how you fully committed to the final decision once it was made, regardless of your initial stance, and worked to ensure its success.
+
+3. **Highlight Collaboration**: Show how you contributed positively to the team's decision-making process, even if the final outcome was not your preferred approach.
+
+4. **Focus on Positive Outcomes**: Make sure to share how your actions contributed to the overall success of the project and how the team benefited from having a robust discussion.
+
+### Example Behavioral Question and Answer
+
+**Question:** "Tell me about a time when you disagreed with a team decision and how you handled it."
+
+**Answer:**
+
+*"During a project to develop a customer segmentation model, my team was leaning towards using a clustering algorithm that required extensive parameter tuning and was challenging to interpret. I believed that a decision tree-based model would not only be easier to implement but also provide clearer insights to the marketing team. I presented my case, showing how the decision tree could achieve similar results with greater transparency and less complexity.*
+
+*Despite my arguments, the team decided to proceed with the clustering algorithm. Once the decision was made, I fully committed to the project, taking charge of the model’s parameter tuning and working closely with the team to refine it. I also prepared additional documentation and training for the marketing team to help them understand and use the model effectively. In the end, the model performed well and was successfully adopted by the marketing team, who appreciated the extra support provided."*
+
