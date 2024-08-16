@@ -415,6 +415,52 @@ When answering questions related to this principle, the interviewer is looking f
 
 *As a result, the final model not only improved click-through rates by 25%, but also significantly enhanced user satisfaction, as evidenced by positive feedback and increased repeat visits. This insistence on high standards ultimately led to the recommendation engine becoming a key driver of the platform’s success."*
 
-### Conclusion
+### 10. Think Big
 
-When answering questions about "Insist on the Highest Standards," focus on demonstrating your commitment to excellence and your willingness to go the extra mile to ensure that the work you deliver is of the highest quality. Provide concrete examples where your attention to detail, rigor, and high expectations led to outstanding results, and how these efforts contributed to the overall success of the project or organization. This approach will clearly communicate your alignment with Amazon's values and your capability as a senior machine learning applied scientist.
+**"Think Big"** is an Amazon leadership principle that encourages leaders and employees to envision and pursue ambitious goals, innovate boldly, and look beyond the immediate challenges to achieve impactful outcomes. This principle is about having a vision for the future, challenging the status quo, and creating solutions that can significantly influence the business or industry.
+
+For a **senior machine learning applied scientist**, thinking big involves identifying and developing machine learning solutions that can drive substantial improvements, create new opportunities, and lead to breakthroughs that advance the company's objectives.
+
+### How to Answer "Think Big" Behavioral Questions in an Amazon Interview
+
+When addressing questions about thinking big, you should demonstrate your ability to envision and implement ambitious projects, and how you leverage innovative approaches to solve complex problems. The interviewer is interested in seeing your capacity for strategic thinking, creativity, and leadership in executing large-scale initiatives.
+
+#### Using the STAR Method (Situation, Task, Action, Result):
+
+**1. Situation**: Describe a context where you were required to think big and pursue an ambitious goal.
+   - Example: "At my previous company, we were facing a challenge with our customer churn prediction model, which was providing limited insights and had low accuracy. This was a crucial issue as customer retention was vital for our growth strategy."
+
+**2. Task**: Explain what you aimed to achieve and why it was important to think big.
+   - Example: "I aimed to overhaul our churn prediction approach by implementing a state-of-the-art deep learning model that could better capture customer behavior patterns and provide actionable insights. This ambitious project was crucial for improving customer retention rates and supporting our company’s growth."
+
+**3. Action**: Describe the specific steps you took to think big and execute your vision.
+   - Example: "I proposed and led the development of a new deep learning model that utilized advanced techniques such as recurrent neural networks (RNNs) and attention mechanisms to analyze user interactions over time. I collaborated with cross-functional teams to gather extensive customer data, engineered new features, and optimized model performance through iterative experimentation. Additionally, I initiated a pilot program to validate the model’s effectiveness in a controlled environment before full-scale deployment."
+
+**4. Result**: Share the outcomes of your actions, including any quantifiable results or impacts.
+   - Example: "The new model significantly improved the accuracy of churn predictions by 30% compared to our previous approach. This led to a 15% increase in customer retention rates and generated a substantial revenue boost. The project also positioned our company as a leader in predictive analytics within our industry and provided a scalable solution that could be adapted for other use cases."
+
+### Tips for Answering
+
+1. **Show Vision and Ambition**: Highlight your ability to think beyond the immediate scope of a project and pursue innovative and impactful solutions.
+
+2. **Demonstrate Innovation**: Provide examples where you introduced new technologies, methodologies, or approaches that had a significant positive effect.
+
+3. **Emphasize Impact**: Focus on the tangible outcomes and benefits of your big ideas, including improvements in performance, efficiency, or business value.
+
+4. **Discuss Leadership and Collaboration**: Illustrate how you led or collaborated with others to achieve large-scale goals, emphasizing your role in driving the vision and execution.
+
+5. **Include Metrics and Achievements**: Whenever possible, include specific metrics or achievements to quantify the success of your big ideas and initiatives.
+
+### Example Behavioral Question and Answer
+
+**Question:** "Can you describe a time when you had to think big to solve a complex problem or drive significant change?"
+
+**Answer:**
+
+*"At a previous role, we were tasked with enhancing our company's recommendation engine to better handle the increasing volume of user data and provide more personalized suggestions. Recognizing the limitations of our existing system, I envisioned an ambitious project to build a next-generation recommendation system using advanced machine learning techniques.*
+
+*I proposed leveraging deep learning models, specifically transformers, to analyze user behavior and preferences at a granular level. This required integrating multiple data sources, including user interactions, preferences, and contextual information, to build a comprehensive user profile.*
+
+*I led a cross-functional team through the development process, which included designing and training the transformer model, optimizing for performance, and implementing a scalable deployment strategy. We also incorporated feedback loops to continuously improve the model based on user interactions.*
+
+*The new recommendation system resulted in a 40% increase in user engagement and a 25% boost in revenue from personalized recommendations. This ambitious project not only improved the user experience but also demonstrated our company’s commitment to innovation and excellence in a highly competitive market."*
