@@ -319,6 +319,51 @@ When you're asked behavioral questions related to "Deliver Results," the intervi
 
 *As a result, we delivered the model on time, and it was able to predict equipment failures with 95% accuracy, leading to a 30% reduction in unplanned downtime for the client. The client was so impressed with the results that they extended the contract for additional projects, leading to further business opportunities for our team."*
 
-### Conclusion
+### 8. Earn Trust
 
-When answering questions about "Deliver Results," focus on providing examples that demonstrate your ability to achieve significant outcomes, even under challenging circumstances. Highlight your problem-solving skills, your ability to manage projects efficiently, and your commitment to meeting or exceeding expectations. This will show that you are someone who can be trusted to deliver high-impact results at Amazon.
+**"Earn Trust"** is one of Amazon's leadership principles that emphasizes the importance of building and maintaining trust with colleagues, customers, and stakeholders. Earning trust involves being honest, transparent, and reliable in your actions and communications. It also means showing respect for others, actively listening to their concerns, and demonstrating integrity in all interactions.
+
+For a **senior machine learning applied scientist**, this principle is particularly important when leading projects, collaborating with cross-functional teams, and delivering data-driven insights. Trust is earned by consistently providing accurate, reliable results, clearly communicating complex ideas, and being transparent about the limitations and assumptions behind your work.
+
+### How to Answer "Earn Trust" Behavioral Questions in an Amazon Interview
+
+When asked behavioral questions related to "Earn Trust," interviewers are looking for examples where you have demonstrated integrity, transparency, and respect, and how you have built trust with others. They want to see that you can be relied upon to deliver accurate and honest results, even in challenging situations.
+
+#### Using the STAR Method (Situation, Task, Action, Result):
+
+**1. Situation**: Set the context by describing a situation where trust was crucial.
+   - Example: "In a previous project, I was responsible for developing a machine learning model to predict customer churn. The project involved working closely with the marketing team, who were relying on my model’s predictions to design retention strategies."
+
+**2. Task**: Explain your responsibility and why it was important to earn trust.
+   - Example: "As the lead data scientist, it was my responsibility to ensure that the model was accurate and that the marketing team could trust the insights provided. Given the high stakes, it was crucial that the model’s predictions were reliable and that any uncertainties were clearly communicated."
+
+**3. Action**: Describe the specific actions you took to earn and maintain trust.
+   - Example: "I took several steps to earn the trust of the marketing team. First, I involved them in the feature selection process, explaining how different variables would impact the model's predictions. I also provided regular updates on the model’s progress and was transparent about the assumptions and limitations of the model. When I identified potential issues with the data, I immediately communicated these to the team and worked with them to find solutions. Additionally, I conducted a thorough validation of the model and presented the results in a clear, understandable way, ensuring that the team knew they could rely on the predictions."
+
+**4. Result**: Share the outcomes of your actions, ideally with quantifiable results.
+   - Example: "As a result of these efforts, the marketing team had full confidence in the model and used its predictions to design a highly successful retention campaign. The campaign resulted in a 15% reduction in churn over the next quarter. My transparent communication and collaboration helped to build a strong working relationship with the marketing team, and they continued to seek my input on subsequent projects."
+
+### Tips for Answering
+
+1. **Emphasize Integrity**: Highlight how you demonstrated honesty and integrity, especially in situations where it might have been easier to overlook or downplay issues.
+
+2. **Show Transparency**: Discuss how you communicated openly with stakeholders, providing clear explanations of your decisions, assumptions, and the data you worked with.
+
+3. **Demonstrate Reliability**: Provide examples of how you consistently delivered on your commitments, met deadlines, and provided accurate, dependable results.
+
+4. **Focus on Building Relationships**: Show how your actions helped to build and strengthen relationships with colleagues, clients, or other stakeholders.
+
+5. **Acknowledge Challenges**: If relevant, include any challenges you faced in earning trust and how you overcame them.
+
+### Example Behavioral Question and Answer
+
+**Question:** "Tell me about a time when you had to earn the trust of a colleague or team."
+
+**Answer:**
+
+*"In a project aimed at improving the accuracy of demand forecasting for our supply chain, I was tasked with developing a new machine learning model. The operations team, who were the primary users of the forecasts, were initially skeptical of the switch from their traditional statistical methods to a machine learning approach.*
+
+*To earn their trust, I started by involving them early in the development process. I explained the benefits and limitations of the machine learning model compared to their current methods, and I was transparent about the data and techniques we were using. I also set up regular check-ins where I shared the model’s progress and solicited their feedback. When the initial model had a higher error rate than expected, I didn’t hide the issue. Instead, I openly discussed the challenges we were facing, explained the steps we were taking to address them, and provided a revised timeline.*
+
+*By the time the model was ready, the operations team felt confident in the new approach. They appreciated the transparency and involvement throughout the process, which led to a smoother transition and adoption of the new model. Ultimately, the new forecasting model reduced errors by 20%, significantly improving inventory management and reducing costs."*
+\
