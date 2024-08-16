@@ -89,3 +89,53 @@ When asked about "Ownership" in an Amazon interview, the interviewer wants to se
 ### Conclusion
 
 When answering questions about the "Ownership" principle at Amazon, focus on demonstrating your proactive approach, long-term thinking, and accountability. Provide concrete examples that show how you’ve gone beyond your regular duties to ensure the success of a project or initiative, and how your actions positively impacted the company.
+
+## 3. Amazon Leadership Principle: Customer Obsession
+
+**"Customer Obsession"** is a core Amazon leadership principle, emphasizing that leaders at Amazon always start with the customer and work backwards. They prioritize the needs, desires, and feedback of customers in every decision they make, striving to earn and maintain customer trust. Amazon believes that by being deeply obsessed with customers, they can deliver exceptional experiences and innovate in ways that genuinely matter to those they serve.
+
+For a **machine learning applied scientist**, customer obsession could translate into developing models and algorithms that directly address customer pain points, enhance user experiences, and drive value by making intelligent, data-driven decisions that align with customer needs.
+
+### How to Answer "Customer Obsession" Behavioral Questions in an Amazon Interview
+
+When you're asked behavioral questions related to "Customer Obsession" in an Amazon interview, the interviewer is looking for evidence that you prioritize customers in your work, understand their needs deeply, and make decisions that benefit them—even if it requires extra effort or going beyond your immediate responsibilities.
+
+#### Using the STAR Method (Situation, Task, Action, Result):
+
+**1. Situation**: Set the context by describing a scenario where you had to prioritize the customer.
+   - Example: "In my previous role as a machine learning scientist, I was tasked with improving the recommendation engine for an e-commerce platform. Our initial approach focused heavily on optimizing for revenue, but we started receiving feedback from customers that the recommendations felt too repetitive and unpersonalized."
+
+**2. Task**: Explain what your responsibility was in that situation.
+   - Example: "As the lead on this project, I was responsible for improving the recommendation system in a way that would enhance the customer experience and address their concerns."
+
+**3. Action**: Describe the specific actions you took to address the customer's needs.
+   - Example: "I conducted a deep dive into the customer feedback and found that many users were frustrated with seeing the same products repeatedly. To address this, I shifted our focus from solely revenue-driven metrics to include diversity and novelty in the recommendation criteria. I collaborated with the data team to gather more granular data on user interactions and preferences. We then retrained our models to better reflect these broader criteria, ensuring that recommendations were more personalized and varied."
+
+**4. Result**: Share the outcomes of your actions, ideally with quantifiable results.
+   - Example: "As a result of these changes, we saw a 15% increase in customer satisfaction scores related to the recommendation engine, along with a 10% increase in repeat visits. The more personalized and diverse recommendations also led to a 12% increase in overall sales from the recommendation engine, indicating that aligning our strategy with customer needs not only improved their experience but also positively impacted the business."
+
+### Tips for Answering
+
+1. **Put the Customer First**: Always highlight how you prioritize the customer’s needs in your work. Show that you think about the customer at every stage of a project.
+
+2. **Demonstrate Empathy**: Show that you understand the customer’s perspective and that you actively seek out and listen to their feedback.
+
+3. **Quantify the Impact**: Whenever possible, include metrics or quantifiable outcomes to demonstrate the impact of your customer-focused actions.
+
+4. **Be Proactive**: Highlight instances where you took initiative to solve customer issues, even if they were outside your direct responsibilities.
+
+5. **Show Continuous Improvement**: Demonstrate that you not only addressed a specific customer issue but also used the experience to improve processes or products for future customers.
+
+### Example Behavioral Question and Answer
+
+**Question:** "Give me an example of a time when you went above and beyond to meet the needs of a customer."
+
+**Answer:**
+
+*"In one of my projects as a machine learning applied scientist, we were developing a predictive model for customer churn for a subscription-based service. Midway through the project, we received feedback that customers felt the service was not understanding their specific needs and was too generic in its approach to retention efforts. Realizing this, I decided to go beyond the initial project scope. I proposed an additional layer of customer segmentation that could personalize the churn prevention strategies. I worked closely with the customer service team to gather qualitative data and integrated this with our existing quantitative data to build more nuanced customer personas.*
+
+*I then developed a multi-model approach where each segment was treated differently, with tailored interventions aimed at addressing the specific reasons for potential churn in each group. The personalized approach led to a 20% reduction in churn rate within three months of deployment, and customer satisfaction scores improved significantly. This experience reinforced the importance of truly understanding and addressing the unique needs of our customers, even if it means going beyond the initial project scope."*
+
+### Conclusion
+
+When answering questions about "Customer Obsession" at Amazon, focus on showing how you put customers at the center of your decisions and actions. Provide concrete examples where your customer-focused approach led to tangible benefits for the customer and the company. Demonstrating your commitment to understanding and solving customer problems will resonate strongly in an Amazon interview.
