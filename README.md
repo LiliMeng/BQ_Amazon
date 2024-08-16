@@ -42,7 +42,7 @@ At Amazon, employees are encouraged to take calculated risks, be proactive, and 
 
 This approach demonstrates your ability to take quick, decisive action while balancing the risks and driving the project to a successful outcome.
 
-### 2. Amazon Leadership Principle: Ownership
+### 2. Ownership
 
 **"Ownership"** is one of Amazon's core leadership principles, emphasizing the expectation that employees act on behalf of the company and think long-term. It means taking responsibility for the outcomes of your work, beyond just your own tasks or projects. Amazon expects its leaders to exhibit a sense of ownership, to be accountable for the performance and success of their teams, and to make decisions that benefit the company as a whole, even if those decisions require personal sacrifice or going beyond the scope of their job descriptions.
 
@@ -90,7 +90,7 @@ When asked about "Ownership" in an Amazon interview, the interviewer wants to se
 
 When answering questions about the "Ownership" principle at Amazon, focus on demonstrating your proactive approach, long-term thinking, and accountability. Provide concrete examples that show how you’ve gone beyond your regular duties to ensure the success of a project or initiative, and how your actions positively impacted the company.
 
-## 3. Amazon Leadership Principle: Customer Obsession
+## 3. Customer Obsession
 
 **"Customer Obsession"** is a core Amazon leadership principle, emphasizing that leaders at Amazon always start with the customer and work backwards. They prioritize the needs, desires, and feedback of customers in every decision they make, striving to earn and maintain customer trust. Amazon believes that by being deeply obsessed with customers, they can deliver exceptional experiences and innovate in ways that genuinely matter to those they serve.
 
@@ -137,7 +137,7 @@ For a **machine learning applied scientist**, customer obsession could translate
 Emphasize the selective model:
 Deployed three iterative versions of NOMI Forecast models to RBC (the biggest bank in Canada) which used by millions of users daily as the leading researcher. Our NOMI model wins Best Use of AI for Customer Experience at The Digital Banker Digital CX Awards 2023.
 
-### 4. Amazon Leadership Principle: Have Backbone; Disagree and Commit
+### 4. Have Backbone; Disagree and Commit
 
 **"Have Backbone; Disagree and Commit"** is one of Amazon's key leadership principles, which emphasizes the importance of speaking up, respectfully challenging decisions when you disagree, and fully committing to the final decision once it’s made—even if it wasn’t your preferred outcome.
 
@@ -177,7 +177,7 @@ At Amazon, leaders are expected to respectfully challenge decisions, even when d
 
 *Despite my arguments, the team decided to proceed with the clustering algorithm. Once the decision was made, I fully committed to the project, taking charge of the model’s parameter tuning and working closely with the team to refine it. I also prepared additional documentation and training for the marketing team to help them understand and use the model effectively. In the end, the model performed well and was successfully adopted by the marketing team, who appreciated the extra support provided."*
 
-### 5. Amazon Leadership Principle: Invent and Simplify
+### 5. Invent and Simplify
 
 **"Invent and Simplify"** is one of Amazon's core leadership principles that emphasizes the importance of innovation and finding ways to simplify processes and solutions. At Amazon, leaders are expected to constantly seek out new ways to improve products, services, and workflows by introducing innovative ideas and streamlining complex processes. This principle reflects Amazon's focus on making things easier for customers and employees while driving efficiency and effectiveness.
 
