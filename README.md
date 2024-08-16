@@ -42,7 +42,7 @@ At Amazon, employees are encouraged to take calculated risks, be proactive, and 
 
 This approach demonstrates your ability to take quick, decisive action while balancing the risks and driving the project to a successful outcome.
 
-### Amazon Leadership Principle: Ownership
+### 2. Amazon Leadership Principle: Ownership
 
 **"Ownership"** is one of Amazon's core leadership principles, emphasizing the expectation that employees act on behalf of the company and think long-term. It means taking responsibility for the outcomes of your work, beyond just your own tasks or projects. Amazon expects its leaders to exhibit a sense of ownership, to be accountable for the performance and success of their teams, and to make decisions that benefit the company as a whole, even if those decisions require personal sacrifice or going beyond the scope of their job descriptions.
 
@@ -142,7 +142,7 @@ Deployed three iterative versions of NOMI Forecast models to RBC (the biggest ba
 
 When answering questions about "Customer Obsession" at Amazon, focus on showing how you put customers at the center of your decisions and actions. Provide concrete examples where your customer-focused approach led to tangible benefits for the customer and the company. Demonstrating your commitment to understanding and solving customer problems will resonate strongly in an Amazon interview.
 
-### Amazon Leadership Principle: Have Backbone; Disagree and Commit
+### 4. Amazon Leadership Principle: Have Backbone; Disagree and Commit
 
 **"Have Backbone; Disagree and Commit"** is one of Amazon's key leadership principles, which emphasizes the importance of speaking up, respectfully challenging decisions when you disagree, and fully committing to the final decision once it’s made—even if it wasn’t your preferred outcome.
 
@@ -182,3 +182,54 @@ At Amazon, leaders are expected to respectfully challenge decisions, even when d
 
 *Despite my arguments, the team decided to proceed with the clustering algorithm. Once the decision was made, I fully committed to the project, taking charge of the model’s parameter tuning and working closely with the team to refine it. I also prepared additional documentation and training for the marketing team to help them understand and use the model effectively. In the end, the model performed well and was successfully adopted by the marketing team, who appreciated the extra support provided."*
 
+### 5. Amazon Leadership Principle: Invent and Simplify
+
+**"Invent and Simplify"** is one of Amazon's core leadership principles that emphasizes the importance of innovation and finding ways to simplify processes and solutions. At Amazon, leaders are expected to constantly seek out new ways to improve products, services, and workflows by introducing innovative ideas and streamlining complex processes. This principle reflects Amazon's focus on making things easier for customers and employees while driving efficiency and effectiveness.
+
+For a **machine learning applied scientist**, this principle could involve inventing new algorithms or approaches to solve complex problems and simplifying machine learning models or processes to make them more scalable, efficient, and easier to understand.
+
+### How to Answer "Invent and Simplify" Behavioral Questions in an Amazon Interview
+
+When asked behavioral questions related to "Invent and Simplify," interviewers are looking for examples where you have demonstrated creativity in solving problems and have effectively simplified processes or systems without compromising quality.
+
+#### Using the STAR Method (Situation, Task, Action, Result):
+
+**1. Situation**: Describe a situation where you identified an opportunity to invent or simplify a process or solution.
+   - "In a previous role, I was working on a machine learning project that involved developing a model for time series forecasting. The existing process for feature selection and model training was manual and time-consuming, involving multiple iterations and a lot of trial and error."
+
+**2. Task**: Explain what your responsibility was and what you needed to accomplish.
+   - "My task was to find a way to improve the efficiency of the model development process while maintaining or improving the model's accuracy."
+
+**3. Action**: Describe the specific actions you took to invent a new solution or simplify an existing process.
+   -  "I took the initiative to automate the feature selection process by developing a script that used a combination of feature importance ranking and recursive feature elimination. This script automatically selected the most relevant features for the model, significantly reducing the time required for this task. Additionally, I introduced a pipeline that automated the entire model training and evaluation process, allowing for faster iterations and more consistent results."
+
+**4. Result**: Share the outcomes of your actions, ideally with quantifiable results.
+   - "As a result, the time spent on feature selection and model training was reduced by 50%, and the model's accuracy improved by 5%. This automation not only saved time but also allowed the data science team to focus on more strategic tasks, leading to faster deployment of the model into production."
+
+### Tips for Answering
+
+1. **Highlight Innovation**: Emphasize how you came up with a novel solution to a problem or identified a way to improve an existing process.
+
+2. **Focus on Simplification**: Showcase how your actions led to a simpler, more efficient, or more scalable solution.
+
+3. **Provide Quantifiable Impact**: Whenever possible, include metrics or tangible outcomes that resulted from your innovation or simplification efforts.
+
+4. **Emphasize Scalability**: Mention if your solution was adopted across other projects or teams, demonstrating the broader impact of your invention or simplification.
+
+5. **Show Problem-Solving**: Demonstrate your problem-solving skills by explaining how you identified the need for invention or simplification and how you approached solving the problem.
+
+### Example Behavioral Question and Answer
+
+**Question:** "Tell me about a time when you invented something or simplified a complex process."
+
+**Answer:**
+
+*"During a project to build a recommendation engine for a large e-commerce platform, I noticed that the existing process for updating the recommendation model was highly manual and error-prone. The process involved multiple teams and took several days to complete, leading to delays in deploying updated models.*
+
+*I decided to simplify this process by developing an automated pipeline that integrated data preprocessing, model training, and deployment into a single workflow. I introduced a continuous integration/continuous deployment (CI/CD) approach that allowed the model to be automatically retrained and deployed whenever new data was available. This pipeline also included automated testing to ensure that any changes to the model did not negatively impact its performance.*
+
+*As a result, the time required to update the recommendation model was reduced from several days to just a few hours. The new process was so effective that it was adopted by other teams within the organization, leading to faster deployment cycles and more up-to-date recommendations for customers. This not only improved the user experience but also contributed to a 15% increase in sales from the recommendation engine."*
+
+### Conclusion
+
+When answering questions about "Invent and Simplify," focus on demonstrating your ability to think creatively and strategically to solve problems and improve processes. Provide concrete examples that show how your innovations and simplifications had a significant impact on efficiency, scalability, or business outcomes. This will help you convey your alignment with Amazon’s culture of continuous improvement and innovation.
