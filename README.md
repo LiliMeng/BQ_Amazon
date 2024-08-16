@@ -137,11 +137,6 @@ For a **machine learning applied scientist**, customer obsession could translate
 Emphasize the selective model:
 Deployed three iterative versions of NOMI Forecast models to RBC (the biggest bank in Canada) which used by millions of users daily as the leading researcher. Our NOMI model wins Best Use of AI for Customer Experience at The Digital Banker Digital CX Awards 2023.
 
-
-### Conclusion
-
-When answering questions about "Customer Obsession" at Amazon, focus on showing how you put customers at the center of your decisions and actions. Provide concrete examples where your customer-focused approach led to tangible benefits for the customer and the company. Demonstrating your commitment to understanding and solving customer problems will resonate strongly in an Amazon interview.
-
 ### 4. Amazon Leadership Principle: Have Backbone; Disagree and Commit
 
 **"Have Backbone; Disagree and Commit"** is one of Amazon's key leadership principles, which emphasizes the importance of speaking up, respectfully challenging decisions when you disagree, and fully committing to the final decision once it’s made—even if it wasn’t your preferred outcome.
@@ -190,8 +185,6 @@ For a **machine learning applied scientist**, this principle could involve inven
 
 ### How to Answer "Invent and Simplify" Behavioral Questions in an Amazon Interview
 
-When asked behavioral questions related to "Invent and Simplify," interviewers are looking for examples where you have demonstrated creativity in solving problems and have effectively simplified processes or systems without compromising quality.
-
 #### Using the STAR Method (Situation, Task, Action, Result):
 
 **1. Situation**: Describe a situation where you identified an opportunity to invent or simplify a process or solution.
@@ -230,6 +223,3 @@ When asked behavioral questions related to "Invent and Simplify," interviewers a
 
 *As a result, the time required to update the recommendation model was reduced from several days to just a few hours. The new process was so effective that it was adopted by other teams within the organization, leading to faster deployment cycles and more up-to-date recommendations for customers. This not only improved the user experience but also contributed to a 15% increase in sales from the recommendation engine."*
 
-### Conclusion
-
-When answering questions about "Invent and Simplify," focus on demonstrating your ability to think creatively and strategically to solve problems and improve processes. Provide concrete examples that show how your innovations and simplifications had a significant impact on efficiency, scalability, or business outcomes. This will help you convey your alignment with Amazon’s culture of continuous improvement and innovation.
