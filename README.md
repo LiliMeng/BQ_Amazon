@@ -464,3 +464,52 @@ When addressing questions about thinking big, you should demonstrate your abilit
 *I led a cross-functional team through the development process, which included designing and training the transformer model, optimizing for performance, and implementing a scalable deployment strategy. We also incorporated feedback loops to continuously improve the model based on user interactions.*
 
 *The new recommendation system resulted in a 40% increase in user engagement and a 25% boost in revenue from personalized recommendations. This ambitious project not only improved the user experience but also demonstrated our company’s commitment to innovation and excellence in a highly competitive market."*
+
+### 11. Learn and Be Curious
+
+**"Learn and Be Curious"** is one of Amazon’s leadership principles that highlights the importance of continuous learning and a desire to explore new possibilities. Amazon values individuals who are never satisfied with what they currently know and are always seeking to improve their knowledge and skills. This principle encourages employees to look for new ideas, stay informed about the latest trends, and be open to learning from both successes and failures.
+
+For a **senior machine learning applied scientist**, "Learn and Be Curious" means staying at the cutting edge of machine learning techniques, tools, and methodologies. It involves exploring new areas of research, experimenting with novel approaches, and constantly improving your understanding of the rapidly evolving field of machine learning. It also means being open to feedback and using it as a tool for growth.
+
+### How to Answer "Learn and Be Curious" Behavioral Questions in an Amazon Interview
+
+When asked behavioral questions related to "Learn and Be Curious," the interviewer is looking for examples where you have demonstrated a commitment to learning, a proactive approach to gaining new knowledge, and how your curiosity has led to improvements in your work or innovations within your team or organization.
+
+#### Using the STAR Method (Situation, Task, Action, Result):
+
+**1. Situation**: Describe a context where your curiosity or desire to learn led to a significant impact.
+   - Example: "In a previous role, I noticed that our machine learning models were becoming outdated and weren’t performing as well as newer models described in recent research papers."
+
+**2. Task**: Explain what you set out to learn or improve and why it was important.
+   - Example: "I wanted to ensure that our models remained competitive, so I took it upon myself to explore the latest advancements in deep learning, specifically focusing on transformer architectures that were proving to be very effective in similar domains."
+
+**3. Action**: Describe the specific steps you took to learn something new or explore a new area.
+   - Example: "I started by taking an online course on transformer models and attending relevant conferences to understand the latest research. I also reached out to experts in the field through professional networks and read extensively on the topic. I then applied this knowledge by experimenting with transformers on a smaller scale within our existing pipeline, comparing their performance with our current models."
+
+**4. Result**: Share the outcomes of your actions, ideally with quantifiable results.
+   - Example: "Through these efforts, I was able to successfully implement a transformer-based model that improved our system’s accuracy by 15%. This not only enhanced our product’s performance but also sparked interest in adopting these models across other projects in the company. Additionally, I shared my findings and learnings with the team, leading to broader adoption of these techniques."
+
+### Tips for Answering
+
+1. **Demonstrate Proactivity**: Show how you took the initiative to learn something new, rather than waiting for it to be assigned or prompted by others.
+
+2. **Highlight Continuous Learning**: Provide examples that show your commitment to ongoing learning, such as taking courses, attending workshops, reading industry literature, or experimenting with new technologies.
+
+3. **Link Learning to Impact**: Make sure to connect your curiosity and learning to tangible improvements or innovations in your work. Show how your pursuit of knowledge had a positive impact on your team or organization.
+
+4. **Show Openness to Feedback**: Include examples where learning from others or being curious about feedback led to personal or professional growth.
+
+5. **Be Specific**: Focus on specific examples where your curiosity led to new insights, innovations, or improvements in your work.
+
+### Example Behavioral Question and Answer
+
+**Question:** "Tell me about a time when your curiosity led you to learn something that made a significant impact on your work."
+
+**Answer:**
+
+*"In one of my previous projects, I noticed that our predictive models were underperforming compared to industry benchmarks. I was curious about how cutting-edge techniques like reinforcement learning could be applied to improve our model's performance, even though this wasn’t something we had explored before.*
+
+*I took the initiative to enroll in an advanced online course on reinforcement learning and spent my weekends experimenting with these techniques on smaller datasets. I also reached out to a few academic researchers who were active in this field to better understand the practical applications. After several weeks of learning and experimentation, I developed a new model that incorporated reinforcement learning elements.*
+
+*The result was a significant 20% improvement in our model’s accuracy, which led to better decision-making for our clients and opened up new business opportunities. I also shared my knowledge with the rest of the data science team, which sparked further innovations across other projects. This experience reinforced the importance of being curious and continuously learning in order to stay ahead in the fast-evolving field of machine learning."*
+
