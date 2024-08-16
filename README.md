@@ -96,9 +96,7 @@ When answering questions about the "Ownership" principle at Amazon, focus on dem
 
 For a **machine learning applied scientist**, customer obsession could translate into developing models and algorithms that directly address customer pain points, enhance user experiences, and drive value by making intelligent, data-driven decisions that align with customer needs.
 
-### How to Answer "Customer Obsession" Behavioral Questions in an Amazon Interview
-
-When you're asked behavioral questions related to "Customer Obsession" in an Amazon interview, the interviewer is looking for evidence that you prioritize customers in your work, understand their needs deeply, and make decisions that benefit them—even if it requires extra effort or going beyond your immediate responsibilities.
+###  "Customer Obsession" 
 
 #### Using the STAR Method (Situation, Task, Action, Result):
 
@@ -149,13 +147,6 @@ When answering questions about "Customer Obsession" at Amazon, focus on showing 
 **"Have Backbone; Disagree and Commit"** is one of Amazon's key leadership principles, which emphasizes the importance of speaking up, respectfully challenging decisions when you disagree, and fully committing to the final decision once it’s made—even if it wasn’t your preferred outcome.
 
 At Amazon, leaders are expected to respectfully challenge decisions, even when doing so is uncomfortable or exhausting. However, once a decision is determined, they are expected to fully commit to it, ensuring the success of the collective goal. This principle fosters a culture of open debate, rigorous discussion, and ultimately, unified execution.
-
-### How to Answer "Have Backbone; Disagree and Commit" Behavioral Questions in an Amazon Interview
-
-When asked behavioral questions related to this principle, interviewers are looking for examples where you:
-- Assertively and respectfully voiced a differing opinion.
-- Engaged in constructive debate to ensure the best decision was made.
-- Fully supported and committed to a decision once it was finalized, even if it wasn’t your initial preference.
 
 #### Using the STAR Method (Situation, Task, Action, Result):
 
