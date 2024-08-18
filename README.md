@@ -194,7 +194,7 @@ For a **machine learning applied scientist**, this principle could involve inven
    - "My task was to find a way to improve the efficiency of the model development process while maintaining or improving the model's accuracy."
 
 **3. Action**: Describe the specific actions you took to invent a new solution or simplify an existing process.
-   -  "I took the initiative to automate the feature selection process by developing a script that used a combination of feature importance ranking and recursive feature elimination. This script automatically selected the most relevant features for the model, significantly reducing the time required for this task. Additionally, I introduced a pipeline that automated the entire model training and evaluation process, allowing for faster iterations and more consistent results."
+   -  "I took the initiative to automate the feature selection process by developing a script that used a combination of feature importance ranking and recursive feature elimination. This script automatically selected the most relevant features for the model, significantly reducing the time required for this task. Additionally, I introduced a pipeline that automated the entire model training and evaluation process, also the auto-logging process, allowing for faster iterations and more consistent results."
 
 **4. Result**: Share the outcomes of your actions, ideally with quantifiable results.
    - "As a result, the time spent on feature selection and model training was reduced by 50%, and the model's accuracy improved by 5%. This automation not only saved time but also allowed the data science team to focus on more strategic tasks, leading to faster deployment of the model into production."
